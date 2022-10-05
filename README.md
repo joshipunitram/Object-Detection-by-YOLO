@@ -4,5 +4,5 @@
 ## Quick Start
 
     1. Download YOLOv3 weights from YOLO website.
-    2. Convert the Darknet YOLO model to a Keras model.
-    3. Run YOLO detection.
+        Download link:- https://pjreddie.com/media/files/yolov3.weights   
+    2. Run YOLO detection.
